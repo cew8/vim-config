@@ -1,3 +1,6 @@
-set background=light
+set background=dark
 
-colorscheme xcodelighthc
+colorscheme two-firewatch
+
+set nu
+set expandtab

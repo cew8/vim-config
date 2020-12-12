@@ -1,2 +1,9 @@
 - repo: 'arzg/vim-colors-xcode'
-
+- repo: 'cormacrelf/vim-colors-github'
+- repo: 'hzchirs/vim-material'
+- repo: 'jpo/vim-railscasts-theme'
+- repo: 'NLKNguyen/papercolor-theme'
+- repo: 'sonph/onehalf'
+- repo: 'drewtempelmeyer/palenight.vim'
+- repo: 'tpope/vim-vividchalk'
+- repo: 'Lokaltog/vim-distinguished'
